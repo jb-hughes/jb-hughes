@@ -2,7 +2,7 @@
 
 I write and manage content for LinkedIn Learning's [technical documentation library](https://docs.microsoft.com/linkedin/learning/).
 
-<img align="left" alt="jb-hughes's GitHub stats" src="https://jb-hughes-d55huv5ul-jb-hughes.vercel.app/api?username=jb-hughes&show_icons=true&theme=radical&count_private=true" />
+<img align="left" alt="jb-hughes's GitHub stats" src="https://github-readme-stats-2-five.vercel.app/api?username=jb-hughes&show_icons=true&theme=radical&count_private=true" />
 
 
 <!---
