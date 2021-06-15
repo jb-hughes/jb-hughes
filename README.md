@@ -1,4 +1,4 @@
-# Joe Hughes' GitHub profile
+# ✨ Joe Hughes' GitHub profile ✨
 
 I write and manage content for LinkedIn Learning's [technical documentation library](https://docs.microsoft.com/linkedin/learning/).
 
